@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>IRIS.iTask.DCH</string>
+				<string>com.sinohydro.test</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
